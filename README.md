@@ -14,9 +14,9 @@
 
 ## Rules
 
--   "Starter code" or "Beginner's code" in any language.
--   Data Structure and Algorithms.
--   Anything valuable.
+-"Starter code" or "Beginner's code" in any language.
+-Data Structure and Algorithms.
+-Anything valuable.
 <p>
   <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="45%" align="right" >
 </p>
