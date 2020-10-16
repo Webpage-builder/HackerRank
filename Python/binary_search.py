@@ -13,4 +13,4 @@ def bin_search(arr, x, beg, last):   #O(Log(n))
 
 array = list(map(int, input().split()))
 num = int(input("Number you want to look for in the array: "))
-print(bin_search(array, num, 0, len(array)-1)))
+print(bin_search(array, num, 0, len(array)-1))
